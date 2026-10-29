@@ -6,7 +6,7 @@ Welcome to Adventour, a travel website crafted to help you to embark on extraord
 Adventour is an open-source project; we welcome you to explore its codebase and contributeirrespective of whether you're a seasoned developer or just a beginner. Adventour serves as a valuable learning tool to hone your skills and expand your creativity <br />
 
 -**Unzip and Explore:** Download the provided `.zip file`, extract the contents, and open `index.html` in the web browser of choice to experience Adventour firsthand.
--**Live Demo:** at the[Deployed Link](https://tourism-master-x8rx.vercel.app/) Alternatively, get a glimpse of Adventour in action by visiting our live demo at my [Github Repository](https://github.com/anujsingh1001/tourism-master). <br/>
+-**Live Demo:** at the[Live Link](https://tourism-master-x8rx.vercel.app/) Alternatively, get a glimpse of Adventour in action by visiting our live demo at my [Github Repository](https://github.com/anujsingh1001/tourism-master). <br/>
 
 <div align="center">
   
